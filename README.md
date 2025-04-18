@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**R1SE23/R1SE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Display visitors count badge
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=R1SE23.R1SE23)
 
-Here are some ideas to get you started:
+### Display GitHub trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=R1SE23&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Display GitHub profile stats card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1SE23&show_icons=true&theme=radical)
+
+### Display top skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1SE23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Display GitHub streak stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R1SE23&theme=radical)
